@@ -1,0 +1,9 @@
+br\unipar\patterns_adapter\YahooSend.class
+br\unipar\patterns_adapter\GmailSend.class
+br\unipar\patterns_adapter\email\Yahoo.class
+br\unipar\patterns_adapter\email\Gmail.class
+br\unipar\patterns_adapter\EmailProvider.class
+br\unipar\patterns_adapter\EmailView.class
+br\unipar\patterns_adapter\Email.class
+br\unipar\patterns_adapter\GmailAdapter.class
+br\unipar\patterns_adapter\Patterns_Adapter.class

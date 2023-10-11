@@ -1,0 +1,6 @@
+br\unipar\observed\Observed.class
+br\unipar\observed\Subject.class
+br\unipar\observed\StockListView.class
+br\unipar\observed\Observer.class
+br\unipar\observed\DataSource.class
+br\unipar\observed\StatusBar.class

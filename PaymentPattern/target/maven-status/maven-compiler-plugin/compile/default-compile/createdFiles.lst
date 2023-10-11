@@ -1,0 +1,7 @@
+br\unipar\paymentpattern\MoneyPaymentForm.class
+br\unipar\paymentpattern\CreditCardPaymentForm.class
+br\unipar\paymentpattern\PaymentPattern.class
+br\unipar\paymentpattern\PaymentForm.class
+br\unipar\paymentpattern\PayPalPaymentForm.class
+br\unipar\paymentpattern\BitcoinPaymentForm.class
+br\unipar\paymentpattern\Payment.class
